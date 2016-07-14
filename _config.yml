@@ -1,0 +1,14 @@
+layout_spectrum: 0.5809625606052577
+typography_spectrum: 0.6605833440553397
+color:
+  brandStrength: 0.20514196995645761
+  lightness: 0.8407919846940786
+  saturation: 0.4964368410874158
+  rhythmicContrast: 0.8541763196699321
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: guapulo
