@@ -1,16 +1,16 @@
-typography_spectrum: 0.6605833440553397
+layout_spectrum: 0.5339132556691766
+typography_spectrum: 0.4351507220417261
 color:
-  brandStrength: 0.20514196995645761
-  lightness: 0.8407919846940786
-  saturation: 0.4964368410874158
-  rhythmicContrast: 0.8541763196699321
+  brandStrength: 0.9040338851045817
+  lightness: 0.6402740732301027
+  saturation: 0.38979978184215724
+  rhythmicContrast: 0.013521289452910423
   brandColors:
-    - '#2F2933'
-    - '#01A2A6'
-    - '#29D9C2'
-    - '#BDF271'
-    - '#FFFFA6'
-layout_spectrum: 0.5809625606052577
+    - '#FF6600'
+    - '#C13B00'
+    - '#5E6D70'
+    - '#424E4F'
+    - '#1B1D1E'
 name: guapulo
 title: Guapulo.com
 description: Technology and innovation in the middle of the world
