@@ -1,31 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[guapulo]]></title>
-        <description><![CDATA[guapulo]]></description>
+        <title><![CDATA[Guapulo.com]]></title>
+        <description><![CDATA[Guapulo.com]]></description>
         <link>https://thegrid.ai/guapulo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jul 2016 23:25:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2016 17:25:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/guapulo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[¿Quieres exportar software a EEUU?]]></title>
+            <description><![CDATA[<article><h1>¿Quieres exportar software a EEUU?</h1><p>La industria del software promueve oportunidades para el desarrollo económico y social de los países incluyendo Ecuador. Como se menciona, en el informe " Desafíos y Oportunidades de la industria de software en América Latina ", de la Comisión Económica para América Latina y el Caribe (CEPAL), "la producción de software y servicios es además una actividad económica cada vez más relevante, capaz de crear empleos calificados y generar divisas con la exportación de productos y servicios a distancia".</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f089e4e-6c1e-477d-b983-d0710fc115c0.jpg"></article>]]></description>
+            <link>http://buentriphub.com/2016/05/18/7-recomendaciones-exportar-servicios-software-desde-ecuador-estados-unidos/</link>
+            <guid isPermaLink="false">ca47e7e9-c892-42f8-8920-82ae0fe7e20b</guid>
+            <pubDate>Fri, 19 Aug 2016 17:25:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Réplica a "código ingenios no va a matar a nadie" de Andrés Delgado]]></title>
             <description><![CDATA[<article><h1>Réplica a "código ingenios no va a matar a nadie" de Andrés Delgado</h1><p>Si bien es cierto, cómo dice Andrés Delgado, que el código INGENIOS no va a matar nadie de forma literal, ese no es el argumento. Las críticas que se han hecho al Código INGENIOS se basan en el hecho de que no hacen nada por promover las industrias locales del conocimiento y en el mejor...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/334e6f26a27868da2d99258bfceb234c0b2f1842.jpg"></article>]]></description>
             <link>https://guapulo.com/2016/07/08/replica-a-codigo-ingenios-no-va-a-matar-a-nadie-de-andres-delgado/</link>
             <guid isPermaLink="false">120018d9-0d9e-4da3-a9bb-4d5966a8f900</guid>
             <pubDate>Thu, 14 Jul 2016 23:24:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Design School's Ultimate Guide to Designing With Backgrounds [With Ready-to-Use Templates]]]></title>
-            <description><![CDATA[<article><h1>The Design School's Ultimate Guide to Designing With Backgrounds [With Ready-to-Use Templates]</h1><p>Design is a plan for arranging elements in such a way as to accomplish a particular purpose. - Charles Eames In order to arrange your design, you need a place to start. Backgrounds are the foundation of your graphics - it helps pave the path to forming a successful composition.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4ea9629ba4c28c7daf98778b1327aa28/noop.jpg?input=https%3A%2F%2Fdesignschool.canva.com%2Fwp-content%2Fuploads%2Fsites%2F2%2F2014%2F12%2FBackgrounds-Article-Facebook.jpg"></article>]]></description>
-            <link>https://designschool.canva.com/blog/background-design/</link>
-            <guid isPermaLink="false">7da751c7-3a29-4342-a79b-f487d3daf8ec</guid>
-            <pubDate>Thu, 14 Jul 2016 23:20:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Colossal]]></title>
-            <description><![CDATA[<article><h1>Colossal</h1><p>Commercial photographer Sam Kaplan 's latest project, transforms sticks of chewing gum into monumental structures, stacking the sticky treat in shapes that imitate architectural forms. Hundreds of pieces of gum criss cross and stand upwards to create pyramids, columns, and arches-held tightly together with support from super glue.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4f63dd7a08eb117fcc92bfb1c70282c91eac1097.jpg"></article>]]></description>
-            <link>http://www.thisiscolossal.com/</link>
-            <guid isPermaLink="false">6c4c86ce-6321-40c4-bf10-e628c6bf7063</guid>
-            <pubDate>Thu, 14 Jul 2016 23:20:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
